@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  ✌️🤓 Olá, Me chamo <strong>Wagner Barboza Goulart</strong>. Sou papai da <strong>Antonella Schirmann Goulart</strong> e casado com a <strong>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://www.instagram.com/schirmann/" alt="Github">
+  ✌️🤓 Olá, Me chamo <strong>Wagner Barboza Goulart</strong>. Sou papai da <strong>Antonella</strong> e casado com a <strong>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://www.instagram.com/schirmann/" alt="Github">
   <img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/schirmann/"/></a>
 </p>
 
@@ -28,7 +28,7 @@
   🚀 <strong>Linguagens, Libs, Frameworks, Pacotes que utilizo ⤵️ </strong>
 </p>
 <br>
-
+<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
