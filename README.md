@@ -9,7 +9,7 @@
 <br>
 
 <p align="left">
-  👨‍💻 Atualmente :  Sou programador <strong>React</strong> com foco em <strong>React Native</strong> e também me aventuro no <strong>Flutter</strong> já que meu propósito é me tornar um especialista em <strong>Desenvolvimento Mobile.</strong>
+  👨‍💻 Atualmente :  Sou programador <strong>React</strong> com foco em <strong>React Native</strong> e também me aventuro no <strong>Flutter</strong> já que meu propósito é me tornar um especialista em <strong>Desenvolvimento Mobile Híbrido.</strong>
 </p>
 <br>
 
