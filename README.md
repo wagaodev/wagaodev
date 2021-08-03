@@ -11,6 +11,8 @@
     width="80"
     alt="owl"
     src="https://raw.githubusercontent.com/callstack/react-native-testing-library/master/website/static/img/owl.png"
+     
+   />
 <br>
 
 <p align="left">
