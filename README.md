@@ -6,13 +6,16 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img
+<div align='center'>
+  <h1>React Native Testing Library</h1>
+  <img
     height="80"
     width="80"
     alt="owl"
     src="https://raw.githubusercontent.com/callstack/react-native-testing-library/master/website/static/img/owl.png"
-     
-   />
+  />
+  <p>Simple and complete React Native testing utilities that encourage good testing practices.</P>
+</div>
 <br>
 
 <p align="left">
