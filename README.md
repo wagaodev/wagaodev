@@ -12,7 +12,7 @@
   />
   
 </div>
-<h2>Olá, me chamo Wagner Barboza Goulart</h2>
+<h2>Olá, me chamo <strong>Wagner Barboza Goulart</strong></h2>
   <h3>✌️🤓 Sou papai da <strong>Antonella</strong> e casado com a <strong><br>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
