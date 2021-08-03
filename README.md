@@ -10,7 +10,7 @@
     alt="owl"
     src="https://raw.githubusercontent.com/callstack/react-native-testing-library/master/website/static/img/owl.png"
   />
-  <div align='right'>
+  <div align='left'>
 
 <h2>Olá, me chamo <strong>Wagner Barboza Goulart</strong></h2>
   <h3>✌️🤓 Sou papai da <strong>Antonella</strong> e casado com a <strong><br>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
