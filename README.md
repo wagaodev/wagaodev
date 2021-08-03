@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <div align='center'>
-  <h1>Wagner Barboza Goulart</h1>
+  
   <img
     height="80"
     width="80"
@@ -12,9 +12,11 @@
   />
   <p>Simple and complete React Native testing utilities that encourage good testing practices.</P>
 </div>
-  ✌️🤓 Olá, Sou papai da <strong>Antonella</strong> e casado com a <strong>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
+<h1>Wagner Barboza Goulart</h1>
+  <h3>✌️🤓 Olá, Sou papai da <strong>Antonella</strong> e casado com a <strong>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+</h3>
 
 
 <br>
