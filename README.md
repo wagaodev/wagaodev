@@ -2,12 +2,8 @@
 
 
 <p align="left"> 
-  ✌️🤓 Olá, Me chamo <strong>Wagner Barboza Goulart</strong>. Sou papai da <strong>Antonella</strong> e casado com a <strong>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<div align='center'>
-  <h1>React Native Testing Library</h1>
+  <div align='center'>
+  <h1>Wagner Barboza Goulart</h1>
   <img
     height="80"
     width="80"
@@ -16,6 +12,11 @@
   />
   <p>Simple and complete React Native testing utilities that encourage good testing practices.</P>
 </div>
+  ✌️🤓 Olá, Sou papai da <strong>Antonella</strong> e casado com a <strong>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+
 <br>
 
 <p align="left">
