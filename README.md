@@ -26,10 +26,11 @@
 </p>
 <br>
 </h3>
-
+<h3>
 <p align="left">
   Siga nas redes, principalmente no LinkedIn: ⤵️
 </p>
+  </h3>
 
 <p align="left">
   <a href="https://www.instagram.com/wagao.dev/" alt="Instagram">
