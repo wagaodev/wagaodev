@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  <div align='center'>
+  <div align='left'>
   
   <img
     height="80"
