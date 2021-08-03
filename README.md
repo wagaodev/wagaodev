@@ -10,7 +10,7 @@
     alt="owl"
     src="https://raw.githubusercontent.com/callstack/react-native-testing-library/master/website/static/img/owl.png"
   />
-  <p>Simple and complete React Native testing utilities that encourage good testing practices.</P>
+  
 </div>
 <h1>Wagner Barboza Goulart</h1>
   <h3>✌️🤓 Olá, Sou papai da <strong>Antonella</strong> e casado com a <strong>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
