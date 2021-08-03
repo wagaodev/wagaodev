@@ -13,7 +13,7 @@
   
 </div>
 <h1>Wagner Barboza Goulart</h1>
-  <h3>✌️🤓 Olá, Sou papai da <strong>Antonella</strong> e casado com a <strong>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
+  <h3>✌️🤓 Olá, Sou papai da <strong>Antonella</strong> e casado com a <strong><br>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </h3>
