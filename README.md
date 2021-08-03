@@ -13,24 +13,24 @@
   
 </div>
 <h2>Olá, me chamo Wagner Barboza Goulart</h2>
-  <h2>✌️🤓 Sou papai da <strong>Antonella</strong> e casado com a <strong><br>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
+  <h3>✌️🤓 Sou papai da <strong>Antonella</strong> e casado com a <strong><br>❤️ Cintia Schirmann  ❤️</strong>Amo demais essa mulher.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-</h2>
+</h3>
 
 
 <br>
 
 <p align="left">
- <h3> 👨‍💻 Atualmente :  Sou programador <strong>React</strong> com foco em <strong>React Native</strong> e também me aventuro no <strong>Flutter</strong> já que meu propósito é me tornar um especialista em <strong>Desenvolvimento Mobile Híbrido.</strong>
+ <h4> 👨‍💻 Atualmente :  Sou programador <strong>React</strong> com foco em <strong>React Native</strong> e também me aventuro no <strong>Flutter</strong> já que meu propósito é me tornar um especialista em <strong>Desenvolvimento Mobile Híbrido.</strong>
 </p>
 <br>
-</h3>
-<h3>
+</h4>
+<h4>
 <p align="left">
   Siga nas redes, principalmente no LinkedIn: ⤵️
 </p>
-  </h3>
+  </h4>
 
 <p align="left">
   <a href="https://www.instagram.com/wagao.dev/" alt="Instagram">
