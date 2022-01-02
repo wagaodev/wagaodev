@@ -18,7 +18,7 @@
 </h3>
 </div>
 <p align="left">
- <h4> 👨‍💻 Currently I work at<a href="https://www.riachuelo.com.br/">Riachuelo</a>, more specifically within a banking core and I use React Native and NodeJS as development.
+ <h4> 👨‍💻 Currently I work at <a href="https://www.riachuelo.com.br/">Riachuelo</a>, more specifically within a banking core and I use React Native and NodeJS as development.
 </h4>
 <h4>
 <p align="left">
