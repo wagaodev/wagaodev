@@ -11,18 +11,18 @@
   />
   <div align='left'>
 
-<h2>Hi dear. Me chamo<br>  <strong>Wagner Barboza Goulart</strong></h2>
-  <h4>✌️🤓 Sou papai da <strong>Antonella</strong> e casado com a <strong><br>❤️‍🔥 <a href="https://www.linkedin.com/in/schirmann/"> Cintia Schirmann</a>  ❤️‍🔥</strong> que também é dev mobile.<br> <br>Github dela abaixo.<br><a href="https://github.com/schirmann" alt="Github">
+<h2>Hi dear. My name is<br>  <strong>Wagner Barboza Goulart</strong></h2>
+  <h4>✌️🤓 I'm a father <strong>Antonella</strong> and I'm married with that Awesome Girl <strong><br>❤️‍🔥 <a href="https://www.linkedin.com/in/schirmann/"> Cintia Schirmann</a>  ❤️‍🔥</strong> She is my best friend and she codes too. <br> <br>Follow her too.<br><a href="https://github.com/schirmann" alt="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </h3>
 </div>
 <p align="left">
- <h4> 👨‍💻 Atualmente desenvolvo na empresa <a href="https://www.riachuelo.com.br/">Riachuelo</a>, mais especificamente dentro da aliança bancária da empresa, onde desenvolvo mobile com React Native  e NodeJS  no backend.
+ <h4> 👨‍💻 Currently I work at<a href="https://www.riachuelo.com.br/">Riachuelo</a>, more specifically within a banking core and I use React Native and NodeJS as development.
 </h4>
 <h4>
 <p align="left">
-  Siga nas redes, principalmente no LinkedIn: ⤵️
+  Follow me in LinkedIn and others social media: ⤵️
 </p>
   </h4>
 
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wcfx" /></a>
 
   <p align="left">
-  🚀 <strong> Um pouco do que eu sei ⤵️ </strong>
+  🚀 <strong> What i work ⤵️ </strong>
     
 </p>  
 <p align="left">
