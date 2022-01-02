@@ -11,8 +11,8 @@
   />
   <div align='left'>
 
-<h2>Hi dear. My name is<br>  <strong>Wagner Barboza Goulart</strong></h2>
-  <h4>✌️🤓 I'm a father <strong>Antonella</strong> and I'm married with that Awesome Girl <strong><br>❤️‍🔥 <a href="https://www.linkedin.com/in/schirmann/"> Cintia Schirmann</a>  ❤️‍🔥</strong> She is my best friend and she codes too. <br> <br>Follow her too.<br><a href="https://github.com/schirmann" alt="Github">
+<h2>Hi dear. My name is<br>  <strong> Wagner Barboza Goulart</strong></h2>
+  <h4>✌️🤓 I'm a father and I'm married with that Awesome Girl <strong><br>❤️‍🔥 <a href="https://www.linkedin.com/in/schirmann/"> Cintia Schirmann</a>  ❤️‍🔥</strong> She is my best friend and she codes too. <br> <br>Follow her too.<br><a href="https://github.com/schirmann" alt="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 </h3>
