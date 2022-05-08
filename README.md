@@ -1,5 +1,5 @@
 <h1 align="left">Hey Folks <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">I'm Wagner</h1>
-<h3 align="left">I'm a React Native and  Swift Developer.
+<h3 align="left">I'm a React Native and  Swift Developer.</h3>
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook wcfx">
