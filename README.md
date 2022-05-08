@@ -36,9 +36,9 @@
 
 <br>
 
-<p align="center">
+<p align="center"><center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcfx&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcfx&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=wcfx&show_icons=true&theme=nightowl" alt="wcfx's stats"/>
 </p>
