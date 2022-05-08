@@ -13,7 +13,7 @@
 
 - 🚀 &nbsp; i live in **Brasil** but i want to live in **Canada** or **USA**
 
-- ❤️‍🔥&nbsp; My wife is also a developer. Also visit his profile if you like.<br> **SHE IS BEAUTIFUL.** <a href="https://www.linkedin.com/in/wcfx"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LINKEDIN">&nbsp;</img></a><a href="https://github.com/schirmanndev"><img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=GITHUB"></img></a>
+- ❤️‍🔥&nbsp; My wife is also a developer. Also visit his profile if you like.<br> **SHE IS BEAUTIFUL.** <a href="https://www.linkedin.com/in/schirmann"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LINKEDIN">&nbsp;</img></a><a href="https://github.com/schirmanndev"><img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=GITHUB"></img></a>
 
 - 🧒🏼 &nbsp;I'm father of a beautiful child named **Antonella**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who is **autistic.**
 
