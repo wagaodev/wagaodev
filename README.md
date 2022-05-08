@@ -37,6 +37,9 @@
 <br>
 
 <p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcfx&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
+
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=wcfx&show_icons=true&theme=nightowl" alt="wcfx's stats"/>
 </p>
 
@@ -47,6 +50,6 @@
  <img align="center" src="https://img.shields.io/badge/-WagaoDev-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://linkedin.com/in/wcfx" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/wagnerbarboza-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/WagnerBarboza-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
