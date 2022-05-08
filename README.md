@@ -47,6 +47,6 @@
  <img align="center" src="https://img.shields.io/badge/-WagaoDev-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://linkedin.com/in/wcfx" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/WagaoDev-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/wagnerbarboza-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
