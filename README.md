@@ -6,7 +6,7 @@
 
 - &nbsp;Swift Developer. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
 - ⚛&nbsp;React Native Developer
-- 🏆 &nbsp;I’m currently working on [Midway](https://www.midway.com.br/)
+- 🏆 &nbsp;I’m currently working on [Neon](https://neon.com.br/)
 
 - 👨🏻‍💻&nbsp; I’m always studying **Swift, SwiftUI, MVVM, React Native.**
 
