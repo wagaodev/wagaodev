@@ -8,7 +8,7 @@
 - ⚛&nbsp;React Native Developer
 - 🏆 &nbsp;I’m currently working on [Neon](https://neon.com.br/)
 
-- 👨🏻‍💻&nbsp; I’m always studying **Swift, SwiftUI, MVVM, React Native.**
+- 👨🏻‍💻&nbsp; I’m always studying **Swift, SwiftUI, UIKIT, MVVM-C, React Native.**
 
 - 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/wcfx)
 
