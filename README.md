@@ -1,4 +1,4 @@
-<h1 align="left">Hey Folks <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">I'm Wagner</h1>
+<h1 align="left">Hey Folks <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br>I'm Wagner</h1>
 <h3 align="left"></h3>
 </p>
 
