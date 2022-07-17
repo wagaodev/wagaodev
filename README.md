@@ -2,7 +2,7 @@
 <h3 align="left"></h3>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook wcfx">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook wagaodev">
 
 - 🍎&nbsp;Swift Developer. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 - ⚛&nbsp;React Native Developer
@@ -41,9 +41,9 @@
 
 <center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcfx&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagaodev&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=WCFX&show_icons=true&theme=nightowl" alt="wcfx's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wagaodev&show_icons=true&theme=nightowl" alt="wagaodev's stats"/>
 </center>
 
 ##
