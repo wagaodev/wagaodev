@@ -8,9 +8,9 @@
 - ⚛&nbsp;React Native Developer
 - 🏆 &nbsp;I’m currently working on [Neon](https://neon.com.br/)
 
-- 👨🏻‍💻&nbsp; I’m always studying **Swift, SwiftUI, UIKIT, MVVM-C, RxSwift.**
+- 👨🏻‍💻&nbsp; I’m always studying **React Native, Swift, SwiftUI, UIKIT, MVVM-C.**
 
-- 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/wcfx)
+- 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/wagaodev)
 
 - 🫡&nbsp; My Friends call me "Wagão" its my nickname
 
