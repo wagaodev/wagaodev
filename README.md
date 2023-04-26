@@ -8,13 +8,12 @@
 - ⚛&nbsp;React Native Developer
 - 🏆 &nbsp;I’m currently working on [Neon](https://neon.com.br/)
 
-- 👨🏻‍💻&nbsp; I’m always studying **React Native, ReactJS
+- 👨🏻‍💻&nbsp; I’m always studying **React Native**, **ReactJS**, **JavaScript** and **In general, software engineering.**
 
 - 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/wagaodev)
 
 - 🫡&nbsp; My Friends call me "Wagão" its my nickname
-
-- 🚀 &nbsp; i live in **Brasil** but i want to live in **Canada** **UK** or **USA**
+- 🚀 &nbsp; I live in **Brasil** but my dream is to live in **Canada**,**UK**,**USA** or **Germany** 
 
 - ❤️‍🔥&nbsp; My wife is also a developer. Also visit his profile if you like.<br> **SHE IS BEAUTIFUL.** <a href="https://www.linkedin.com/in/schirmann"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LINKEDIN">&nbsp;</img></a><a href="https://github.com/ruivaodev"><img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=GITHUB"></img></a>
 
