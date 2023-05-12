@@ -8,7 +8,7 @@
 - ⚛&nbsp;React Native Developer
 - 🏆 &nbsp;I’m currently working on [Neon](https://neon.com.br/)
 
-- 👨🏻‍💻&nbsp; I’m always studying **React Native**, **ReactJS**, **JavaScript** and **In general, software engineering.**
+- 👨🏻‍💻&nbsp; I’m always studying **React Native**, **JavaScript/Typescript** and **Golang**
 
 - 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/wagaodev)
 
