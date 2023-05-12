@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook wagaodev">
 
-- 🍎&nbsp;Swift Developer.
+- 🍎&nbsp;Fullstack Developer.
 - ⚛&nbsp;React Native Developer
 - 🏆 &nbsp;I’m currently working on [Neon](https://neon.com.br/)
 
