@@ -6,7 +6,6 @@
 
 - 🍎&nbsp;Fullstack Developer.
 - ⚛&nbsp;React Native Developer
-- 🏆 &nbsp;I’m currently working on [Neon](https://neon.com.br/)
 
 - 👨🏻‍💻&nbsp; I’m always studying **React Native**, **JavaScript/Typescript** and **Golang**
 
