@@ -4,10 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook wagaodev">
 
-- 🍎&nbsp;Fullstack Developer.
-- ⚛&nbsp;React Native Developer
+- ⚛&nbsp;Senior React Native Developer
 
-- 👨🏻‍💻&nbsp; I’m always studying **React Native**, **JavaScript/Typescript** and **Golang**
+- 👨🏻‍💻&nbsp; I’m always studying **React Native**, **JavaScript/Typescript**
 
 - 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/wagaodev)
 
