@@ -1,5 +1,14 @@
 <h1 align="left">Hey Folks <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br>I'm Wagner</h1>
 
+---
+
+## 🧊 GitHub Contribution 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="notebook wagaodev">
 
 👨‍💻 **Senior React Native Developer**  
@@ -17,15 +26,6 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/ruivaodev)
 
 ---
-
----
-
-## 🧊 GitHub Contribution 3D
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
-
 
 ## 🛠 Tech Stack  
 
