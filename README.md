@@ -24,39 +24,34 @@
 
 ---
 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=wagaodev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+
 ## 🛠 Tech Stack  
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
-![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)&nbsp;
-![Kubernates](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazon-aws)&nbsp;
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,graphql,nodejs,go,aws,git,gitlab,kubernetes,vscode,jest,styledcomponents,next,tailwind,sass,express,nest,postman,vite,discord,mongo,java,spring,apple,jenkins,terraform,vscode" />
+  </a>
+  <br />
+</div>
+
 
 ---
 
 ## ⚙️ GitHub Analytics  
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagaodev&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wagaodev&show_icons=true&theme=nightowl" alt="wagaodev's stats"/>
-
-</div>
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wagaodev&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wagaodev&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 ---
 
 ## 🔗 Connect with me  
 
 <p align="center">
-  <a href="https://www.instagram.com/wagao.dev/" target="_blank">
+  <a href="https://www.instagram.com/wagaodev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-05122A?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
   <a href="https://linkedin.com/in/wagaodev" target="_blank">
