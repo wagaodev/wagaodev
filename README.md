@@ -8,13 +8,12 @@
 ----
 <h1 align="left">Hey Folks <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br>I'm Wagner</h1>
 
-👨‍💻 **Senior React Native Developer**  
-🎯 **Passionate about clean and scalable code**  
-📚 **Always learning and improving**  
-📍 **Based in Brazil, but dreaming of working internationally**  
-
-- ⚛ Specializing in **React Native**, **TypeScript**, **Node.js** and **JavaScript**  
-- 🔥 Strong experience with **Node.js**, **GraphQL**, and **AWS**, **NodeJS**, **Java**, **Spring** and **Golang**
+- 👨‍💻 **Senior Software Engineer**  
+- 🎯 **Passionate about clean and scalable code**  
+- 📚 **Always learning and improving**  
+- 📍 **Based in Brazil, but dreaming of working internationally**  
+- ⚛ Specializing in **React Native**, **Golang**, **ReactJS**, **TypeScript**, **Node.js**  
+- 🔥 Strong experience with **GraphQL**, and **AWS**, **Java**, **Spring** and **Golang**
 - 💬 Open to networking! Connect with me on **[LinkedIn](https://www.linkedin.com/in/wagaodev)**  
 - 🫡 My friends call me "**Wagão**"  
 - 🏡 Father of **Antonella**, my beautiful autistic child  
