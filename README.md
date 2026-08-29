@@ -23,11 +23,6 @@
 
 ---
 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=wagaodev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-
 ## 🛠 Tech Stack  
 
 <div align="center">
